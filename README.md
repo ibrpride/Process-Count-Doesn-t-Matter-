@@ -57,7 +57,9 @@ That’s 50 BILLION cycles delta, over 1,000 Discords.
 
 
 - This is just an edge case, where I can’t even launch a game because the system locks up ??. But it goes to show that a single process can be just as detrimental as 50 stupid web apps…
-- Then just for the fun of it, I spawned 3000+ processes that did absolutely nothing but sleep.. and as expected, I could play games perfectly fine.
-
+- Then just for the fun of it, I spawned 3000+ processes that did absolutely nothing but sleep.. and as expected, I could play games perfectly fine
+  
+   - ![Alt Text](bin//Taskmgr_RuNSiwmU4N.png)
+     
 # Summary
 ## In conclusion, don’t waste your time breaking functionality just to boast a low number in task manager. Even after all of that lowering of process counts I see people with browsers and 5 other electron apps open while gaming…
