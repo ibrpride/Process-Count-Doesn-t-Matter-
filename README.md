@@ -1,10 +1,7 @@
 # Process Count Doesn’t Matter!
 
 
-![Crates.io](https://img.shields.io/crates/d/process_count_doesnt_matter)
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=ibrpride.Process-Count-Doesn-t-Matter-)
 
-( https://github.com/ibrpride/Process-Count-Doesn-t-Matter-/blob/main/cover.png )
 
 
 ### Throughout my time within the tweaking community I have seen an uncomfortably large amount of people who care WAY too much about their process count in Task Manager and break core functionality for a lower process count.
