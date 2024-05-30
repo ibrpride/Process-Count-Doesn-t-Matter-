@@ -32,7 +32,7 @@
 ### With those options enabled you can now view cycles delta and context switches delta per process. For example:
 
 
-     
+   - ![Alt Text](bin/procexp64_TsGMPehQVV.png) 
 
 
 # Why it matters
