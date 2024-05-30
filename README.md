@@ -1,7 +1,6 @@
 # Process Count Doesn’t Matter!
 
-
-
+![Alt Text](bin/cover.png)
 
 
 ### Throughout my time within the tweaking community I have seen an uncomfortably large amount of people who care WAY too much about their process count in Task Manager and break core functionality for a lower process count.
@@ -24,7 +23,16 @@
 - Process Explorer
 - Process Hacker
 
-You’ll need to edit the columns to include both cycles delta and context switches delta. Like so:
+  You’ll need to edit the columns to include both cycles delta and context switches delta. Like so:
+
+   - ![Alt Text](bin/h6UxOKHZoG.png)
+
+   - ![Alt Text](bin/fJVfD9ihaP.png)
+
+### With those options enabled you can now view cycles delta and context switches delta per process. For example:
+
+
+     
 
 
 # Why it matters
@@ -41,7 +49,9 @@ fn main() {
     loop {} // keep main thread alive, else it will exit
 }
 ```
--
+
+   - ![Alt Text](bin/procexp64_LjFjUI3hn7.png)
+     
 That’s 50 BILLION cycles delta, over 1,000 Discords.
 -
 
